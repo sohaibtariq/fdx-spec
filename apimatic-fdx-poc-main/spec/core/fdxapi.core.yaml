@@ -50,7 +50,6 @@ paths:
       - $ref: '../components/fdxapi.components.yaml#/components/parameters/FapiInteractionIdHeader'
       - $ref: '../components/fdxapi.components.yaml#/components/parameters/FdxApiActorTypeHeader'
     get:
-      operationId: searchForAccounts
       tags:
         - Account Information
       summary: Search for accounts
