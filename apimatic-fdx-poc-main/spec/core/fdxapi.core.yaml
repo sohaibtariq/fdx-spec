@@ -1,8 +1,8 @@
 openapi: 3.1.0
 info:
-  version: '6.2.0'
-  title: FDX V6.2.0 Core API
-  description: Financial Data Exchange V6.2.0 Core API
+  version: '6.2.1'
+  title: FDX V6.2.1 Core API
+  description: Financial Data Exchange V6.2.1 Core API
   contact:
     name: Financial Data Exchange
     url: 'https://financialdataexchange.org/'
